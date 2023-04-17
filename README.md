@@ -16,7 +16,6 @@ This C# .NET Core API provides an implementation of Json Web Tokens (Jwt) for se
 
 - Visual Studio or Visual Studio Code
 - .NET Core SDK
-- MongoDB or any other NoSQL database
 
 ## Getting Started
 
@@ -44,7 +43,3 @@ The API provides a custom policy-based authorization middleware that provides fi
 ## Swagger UI
 
 The API provides a Swagger UI that documents all the API endpoints and their parameters. The Swagger UI is accessible at `https://localhost:7035/swagger/index.html`.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
